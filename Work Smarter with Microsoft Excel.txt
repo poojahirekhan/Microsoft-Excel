@@ -1,0 +1,19 @@
+Exercise: Creating Blank workbooks
+Exercise: Getting help in Excel using search toolbar
+Exercise: Working with data - use AutoFill and Flash Fill 
+Exercise: Working with rows and columns - polish the appearance - AutoFit Column Width , delete the columns , merge and center text.
+Exercise: Formatting text - header rows and a title 
+Exercise: Formatting cells - borders, fills, and Regional number formatting.
+Exercise: Aligning cell content
+Exercise: Searching for and replacing data - Find and Replace tool.
+Exercise: Spell checking a worksheet
+Exercise: Previewing a workbook before printing
+Exercise: Refining the page layout and applying print options
+
+Exercise: complete a pricing sheet that incorporates packaging costs and discounts using formulas
+Exercise: Using formulas and functions - update Scoreboard
+Exercise: Sort and filter data-  present the sales report data by state and to exclude all corporate information
+Exercise_Using Range Names in Formulas - complete a small sales worksheet.. 
+Exercise: Using specialized functions-  calculated A payment rate for each loan 
+Exercise: Analyzing data using text functions-automate portions of an invoice form to decrease the time needed for data entry.
+Exercise: Analyzing data using logical functions 
